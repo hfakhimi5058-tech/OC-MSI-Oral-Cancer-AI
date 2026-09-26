@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+dataset/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Google Colab
+/content/
+/drive/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
