@@ -1,6 +1,6 @@
-Notebook safety and historical-source status
+# Notebook safety and historical-source status
 
-Read before running any notebook
+## Read before running any notebook
 
 The notebooks in this repository are historical development records.
 They are not approved as a sequential, end-to-end reproduction pipeline.
@@ -34,7 +34,7 @@ may load models, evaluate data, write results, or package artifacts.
 Automated scans are heuristic. An absence of flagged credentials or
 identifiers is not a security clearance.
 
-Interpretation of historical content
+## Interpretation of historical content
 
 Historical notebook titles, comments, and result summaries may describe
 earlier experiments rather than the final manuscript analysis.
@@ -55,7 +55,7 @@ Do not silently rewrite the original historical files to make them appear
 prospectively planned. Document corrections and derived publication copies
 separately.
 
- Public-release boundaries
+## Public-release boundaries
 
 Only explicitly reviewed files should be added to the public repository.
 
@@ -76,7 +76,7 @@ A branch in a public repository is also public.
 A `.gitignore` file is not a privacy or access-control mechanism and does
 not remove files already tracked in Git.
 
-Preservation and release procedure
+## Preservation and release procedure
 
 1. Preserve original notebooks and evidence separately.
 2. Create publication copies without modifying the originals.
