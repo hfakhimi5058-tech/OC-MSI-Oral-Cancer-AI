@@ -1,3 +1,0 @@
-method,summary_type,n_seeds,test_images,roc_auc,average_precision,accuracy,decimal_places
-EfficientNetB0 historical reference,single historical reference,1,146,0.9514,0.9489,0.8767,4
-DINOv2 frozen-backbone linear probe,mean of seed-specific metrics,3,146,0.9578,0.9668,0.8813,4
