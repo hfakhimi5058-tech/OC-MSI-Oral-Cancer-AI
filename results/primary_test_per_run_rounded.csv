@@ -1,0 +1,5 @@
+model,seed,n_test_images,classification_threshold,roc_auc,average_precision,accuracy
+EfficientNetB0_historical_reference,42,146,0.5,0.9514,0.9489,0.8767
+DINOv2_linear_probe,42,146,0.5,0.9598,0.9698,0.8904
+DINOv2_linear_probe,123,146,0.5,0.9543,0.9632,0.8562
+DINOv2_linear_probe,2026,146,0.5,0.9594,0.9672,0.8973
